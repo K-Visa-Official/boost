@@ -1,8 +1,10 @@
-import { FlexColumnAllCenter } from './css/common'
-
+import { FlexColumnAllCenter , FlexColumnStartStart , FlexRowBetweenCenter , FlexRow  , FlexColumn} from './css/common'
+import instagram from "./assets/common/footer/instagram.png"
+import tube from "./assets/common/footer/tube.png"
 
 function App() {
-
+ const width = window.innerWidth;
+   
   return (
     <>
       <FlexColumnAllCenter style={{ display: "flex", height: "100%", width: "100%" }}>
@@ -16,7 +18,7 @@ function App() {
           }}
         />
 
-
+    
 
       </FlexColumnAllCenter>    </>
   )
