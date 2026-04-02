@@ -1,0 +1,5 @@
+User-agent: *
+Allow:/
+
+Sitemap:https://www.boostkorea.co.kr/sitemap.xml
+#DaumWebMasterTool:e249633cf72445a0d15c0b9b6a5e3ede8bde7d638df49825af8aeb6db10419eb:/Ou6m/AwksdYr8cHW14lEA==
